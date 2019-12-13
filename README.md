@@ -1,1 +1,2 @@
 # Stupid
+Michael is stupid.
